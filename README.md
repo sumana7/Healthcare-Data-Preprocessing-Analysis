@@ -1,9 +1,7 @@
 Healthcare Data Preprocessing & Exploratory Data Analysis
+
 -->Project Overview
-
-This project focuses on cleaning, transforming, and analyzing a real-world healthcare dataset to prepare it for machine learning and analytical modeling.
-
-The dataset was sourced from Kaggle and contains patient admission records, including demographic, medical, and hospital-related attributes.
+This project focuses on cleaning, transforming, and analyzing a real-world healthcare dataset to prepare it for machine learning and analytical modeling. The dataset was sourced from Kaggle and contains patient admission records, including demographic, medical, and hospital-related attributes.
 
 -->Dataset
 Source: Kaggle Healthcare Dataset
