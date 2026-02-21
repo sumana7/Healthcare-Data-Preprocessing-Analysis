@@ -1,17 +1,17 @@
-# 🏥 Healthcare Data Preprocessing & Analysis
+# Healthcare Data Preprocessing & Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on cleaning, transforming, and analyzing a healthcare dataset to prepare it for machine learning and analytical modeling.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: Kaggle Healthcare Dataset
 - Includes patient demographics, admission details, insurance provider, medical condition, and hospital data.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -21,7 +21,7 @@ This project focuses on cleaning, transforming, and analyzing a healthcare datas
 
 ---
 
-## 🔍 Key Preprocessing Steps
+## Key Preprocessing Steps
 - Handling Missing Values
 - Removing Duplicates
 - Converting Date Columns to Datetime Format
@@ -31,7 +31,7 @@ This project focuses on cleaning, transforming, and analyzing a healthcare datas
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 - Medical condition distribution
 - Admission type comparison
 - Insurance provider insights
@@ -39,5 +39,5 @@ This project focuses on cleaning, transforming, and analyzing a healthcare datas
 
 ---
 
-## 🎯 Outcome
+## Outcome
 The dataset was transformed into a clean and structured format, making it ready for predictive modeling and advanced analytics.
