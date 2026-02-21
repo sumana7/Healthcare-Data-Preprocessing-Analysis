@@ -39,6 +39,6 @@ Admission Type analysis
 Insurance Provider insights
 Date-based analysis of admissions
 Correlation and feature relationships
-🎯 Outcome
 
+-->Outcome
 The dataset was transformed into a clean, structured, and analysis-ready format, making it suitable for predictive modeling and further healthcare analytics.
